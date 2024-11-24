@@ -1,0 +1,9 @@
+preferred-supported-locales: [en]
+synthetic-package: false
+output-dir: ./lib/generated
+arb-dir: ./lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localization.dart
+output-class: AppLocalization
+untranslated-messages-file: not_translated.json
+nullable-getter: false

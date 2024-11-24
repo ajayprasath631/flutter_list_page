@@ -1,0 +1,65 @@
+{
+    "@@locale": "en",
+    "appName": "List Page",
+    "@appName": {
+        "description": "Name of the application"
+    },
+    "search": "Search...",
+    "@search": {
+        "description": "Search text"
+    },
+    "searchResults": "Search Results",
+    "@searchResults": {
+        "description": "Search result text"
+    },
+    "delete": "Delete",
+    "@delete": {
+        "description": "Delete text"
+    },
+    "details": "Details",
+    "@details": {
+        "description": "details text"
+    },
+    "deletedSuccessfully": "Deleted Successfully",
+    "@deletedSuccessfully": {
+        "description": "deletedSuccessfully text"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Button text to cancel an action"
+    },
+    "founds": "{Count} founds",
+    "@founds": {
+        "description": "search found text",
+        "placeholders": {
+            "Count": {
+                "type": "int"
+            }
+        }
+    },
+    "deleteThisAuthor": "Delete this author?",
+    "@deleteThisAuthor": {
+        "description": "Delete confirmation text"
+    },
+    "noMoreDataFoundText": "No more Data found",
+    "@noMoreDataFoundText": {
+        "description": "No more Data found"
+    },
+    "loading": "Loading...",
+    "@loading": {
+        "description": "Message indicating that data is loading"
+    },
+    "noPostsFoundText": "No Data found",
+    "@noPostsFoundText": {
+        "description": "No Data found"
+    },
+    "yearsAgo": "{year} years ago",
+    "@yearsAgo": {
+        "description": "years ago text",
+        "placeholders": {
+            "year": {
+                "type": "int"
+            }
+        }
+    }
+}
